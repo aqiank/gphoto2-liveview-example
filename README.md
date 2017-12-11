@@ -25,5 +25,5 @@ Build
 
 Run
 ---
-1a. To grab frames directly from camera, run `gphoto2 --capture-movie --stdout | ./gphoto2-liveview-example`
-1b. To use existing MJPEG recording, run `./gphoto2-liveview-example [MJPEG filename]`
+1a. To grab frames directly from camera, run `gphoto2 --capture-movie --stdout | ./gphoto2-liveview-example`  
+1b. To use existing MJPEG recording, run `./gphoto2-liveview-example [MJPEG filename]`  
